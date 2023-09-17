@@ -1,0 +1,4 @@
+﻿  BubbleSort.c
+C:\Users\Asus\Desktop\C\X_BubbleSort\BubbleSort.c(18,63): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\Asus\Desktop\C\X_BubbleSort\BubbleSort.c(18,63): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  X_BubbleSort.vcxproj -> C:\Users\Asus\Desktop\C\X_BubbleSort\x64\Debug\X_BubbleSort.exe
